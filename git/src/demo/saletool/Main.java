@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("happy sales");
 		System.out.println("shows slaes data");
 	
+		System.out.println("teast 1");
 	}
      
 }
